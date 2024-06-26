@@ -11,7 +11,7 @@ app.get('/', (req, res) => {
 app.post('/submit-form', (req, res) => {
     const username = req.body.username; // access form data
     // Add validation logic here
-    res.send(`Username is $astanf12`);
+    res.send(`Username is ${username}`);
 });
 
 app.listen(port, () => {
