@@ -1,4 +1,4 @@
-# Web Development 3203
+# Web Development Simple Form
 
 ## Description
 This project is a simple form submission.
